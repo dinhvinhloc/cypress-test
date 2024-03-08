@@ -1,0 +1,34 @@
+{
+    "name": "Taco da Silva",
+    "description": "We are selling Mexican food",
+    "businessLines": [
+        "Restaurant",
+        "Retail",
+        "Service",
+        "Pub",
+        "Bar",
+        "Fast Food",
+        "Asian Cuisine"    ],
+    "businessType":"Food/Beverage",
+    "phone": "+16475186455",
+    "email": "carlos@tacodasilva.ea",
+    "website": "www.google.com",
+    "address": {
+        "streetNumber": 432,
+        "unit": "1",
+        "streetName": "Wellington St W",
+        "postalCode": "M5V 1E3",
+        "city": "Toronto",
+        "province": "Ontario",
+        "country": "Canada",
+        "location": {
+          "x": 43.729011,
+          "y": -79.549406,
+          "type": "Point",
+          "coordinates": [
+            43.729011,
+            -79.549406
+          ]
+        }
+    }
+}

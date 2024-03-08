@@ -1,0 +1,21 @@
+{
+  "name": "Point Perk",
+  "description": "Point Perk",
+  "image": "",
+  "stores": [],
+  "isPublicAvailable": true,
+  "deletedImages": [],
+  "isValid": true,
+  "availableFrom": "2020-09-27T00:00:00-04:00",
+  "availableTo": "2020-10-27T00:00:00-04:00",
+  "status": "ACTIVE",
+  "limitedStock": 99,
+  "isAddonCharged": true,
+  "isMaster": null,
+  "isNewClient": null,
+  "maxRedeem": null,
+  "requiredProductList": [],
+  "rewardPoints": 1000,
+  "rewardProductList": [],
+  "changedImages": []
+}

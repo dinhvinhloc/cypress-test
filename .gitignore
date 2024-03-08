@@ -1,0 +1,10 @@
+/node_modules/
+/logs/
+/cypress/videos
+/cypress/screenshots
+/cypress/report/
+/cypress/reports/
+/cypress/responses/
+/cypress/fixtures/test-data/imageURLs.json
+/cypress/fixtures/test-data/created-data
+/cypress/response

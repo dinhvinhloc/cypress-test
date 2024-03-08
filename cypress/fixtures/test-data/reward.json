@@ -1,0 +1,21 @@
+{
+    "name": "string newcouponnow",
+    "description": "string",
+    "changedImages": [
+    ],
+    "deletedImages": [
+    ],
+    "isAddonCharged": true,
+    "isMaster": true,
+    "availableFrom": "2020-06-25T13:49:23.814Z",
+    "availableTo": "2020-07-25T13:49:23.815Z",
+    "displayTime": null,
+    "stores": [],
+    "requiredProductList": [],
+    "rewardProductList": [],
+    "requiredPoints": 4,
+    "status":"ACTIVE"
+}
+
+
+

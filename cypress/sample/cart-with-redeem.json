@@ -1,0 +1,411 @@
+{
+    "storeId": 29611224900333023060440720410,
+    "items": [
+        {
+            "productId": 29631303294983888248309391275,
+            "productName": "My Product 2",
+            "quantity": 4,
+            "instruction": "string",
+            "price": 1.99,
+            "appliedTaxes": [
+                {
+                    "taxType": "HST",
+                    "taxPercentage": 13,
+                    "taxAmount": 0.64675
+                }
+            ],
+            "totalDiscountAmount": 2.985,
+            "id": 4,
+            "addons": [],
+            "totalAmount": 7.96,
+            "totalAddonAmount": 0,
+            "isFreeItem": false,
+            "appliedPromotionId": null
+        },
+        {
+            "productId": 29631307869776418528278192044,
+            "productName": "My Product 3",
+            "quantity": 3,
+            "instruction": "instruction 456",
+            "price": 13.99,
+            "appliedTaxes": [],
+            "totalDiscountAmount": 0,
+            "id": 8,
+            "addons": [
+                {
+                    "productId": 29942068696790895193096222667,
+                    "productName": "AG2AO1",
+                    "quantity": 2,
+                    "instruction": "add-on instruction",
+                    "price": 0.99,
+                    "appliedTaxes": [
+                        {
+                            "taxType": "GST",
+                            "taxPercentage": 5,
+                            "taxAmount": 0.2970
+                        }
+                    ],
+                    "totalDiscountAmount": 0
+                }
+            ],
+            "totalAmount": 41.97,
+            "totalAddonAmount": 5.94,
+            "isFreeItem": false,
+            "appliedPromotionId": null
+        },
+        {
+            "productId": 29631303294983888248309391275,
+            "productName": "My Product 2",
+            "quantity": 4,
+            "instruction": "string",
+            "price": 1.99,
+            "appliedTaxes": [
+                {
+                    "taxType": "HST",
+                    "taxPercentage": 13,
+                    "taxAmount": 0.0000
+                }
+            ],
+            "totalDiscountAmount": 7.96,
+            "id": 9,
+            "addons": [],
+            "totalAmount": 7.96,
+            "totalAddonAmount": 0,
+            "isFreeItem": true,
+            "appliedPromotionId": 29641179658603515850974907654
+        },
+        {
+            "productId": 29631303294983888248309391275,
+            "productName": "My Product 2",
+            "quantity": 2,
+            "instruction": "instruction 123",
+            "price": 1.99,
+            "appliedTaxes": [
+                {
+                    "taxType": "HST",
+                    "taxPercentage": 13,
+                    "taxAmount": 0.0000
+                }
+            ],
+            "totalDiscountAmount": 3.98,
+            "id": 10,
+            "addons": [],
+            "totalAmount": 3.98,
+            "totalAddonAmount": 0,
+            "isFreeItem": true,
+            "appliedPromotionId": 29620622526303356425652229569
+        },
+        {
+            "productId": 29631307869776418528278192044,
+            "productName": "My Product 3",
+            "quantity": 3,
+            "instruction": "instruction 456",
+            "price": 13.99,
+            "appliedTaxes": [],
+            "totalDiscountAmount": 41.97,
+            "id": 11,
+            "addons": [
+                {
+                    "productId": 29942068696790895193096222667,
+                    "productName": "AG2AO1",
+                    "quantity": 2,
+                    "instruction": "add-on instruction",
+                    "price": 0.99,
+                    "appliedTaxes": [
+                        {
+                            "taxType": "GST",
+                            "taxPercentage": 5,
+                            "taxAmount": 0.0000
+                        }
+                    ],
+                    "totalDiscountAmount": 5.94
+                }
+            ],
+            "totalAmount": 41.97,
+            "totalAddonAmount": 5.94,
+            "isFreeItem": true,
+            "appliedPromotionId": 29620622526303356425652229569
+        }
+    ],
+    "appliedPromotion": [
+        {
+            "type": "PUNCH_CARD",
+            "dealType": "DEAL_UNKNOWN",
+            "name": "My Second Punch on My Product 2",
+            "isAddonCharged": false,
+            "isNewClient": null,
+            "addonDiscountAmount": null,
+            "totalDiscountAmount": 0,
+            "rewardPunches": 4,
+            "rewardPoints": 0,
+            "discountPercent": null,
+            "discountAmount": null,
+            "fixedAmount": null,
+            "appliedProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 4,
+                    "productCategories": null
+                }
+            ],
+            "rewardProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredProductList": [],
+            "requiredAmount": null,
+            "requiredItems": null,
+            "id": 29631624263539298034082827106
+        },
+        {
+            "type": "PUNCH_CARD",
+            "dealType": "DEAL_UNKNOWN",
+            "name": "My First Punch Card on Product 2",
+            "isAddonCharged": false,
+            "isNewClient": null,
+            "addonDiscountAmount": null,
+            "totalDiscountAmount": 0,
+            "rewardPunches": 4,
+            "rewardPoints": 400,
+            "discountPercent": null,
+            "discountAmount": null,
+            "fixedAmount": null,
+            "appliedProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 4,
+                    "productCategories": null
+                }
+            ],
+            "rewardProductList": [
+                {
+                    "id": 29631307869776418528278192044,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                },
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredProductList": [],
+            "requiredAmount": null,
+            "requiredItems": null,
+            "id": 29620622526303356425652229569
+        },
+        {
+            "type": "PUNCH_CARD",
+            "dealType": "DEAL_UNKNOWN",
+            "name": "My Test Punch Card on Product 2",
+            "isAddonCharged": false,
+            "isNewClient": null,
+            "addonDiscountAmount": null,
+            "totalDiscountAmount": 0,
+            "rewardPunches": 4,
+            "rewardPoints": 0,
+            "discountPercent": null,
+            "discountAmount": null,
+            "fixedAmount": null,
+            "appliedProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 4,
+                    "productCategories": null
+                }
+            ],
+            "rewardProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredProductList": [],
+            "requiredAmount": null,
+            "requiredItems": null,
+            "id": 29996373209173307996416057418
+        },
+        {
+            "type": "DEAL",
+            "dealType": "DEAL_BUY_ONE_GET_ONE",
+            "name": "My Buy One Get One Promotion",
+            "isAddonCharged": false,
+            "isNewClient": null,
+            "addonDiscountAmount": 0,
+            "totalDiscountAmount": 2.985,
+            "rewardPunches": null,
+            "rewardPoints": null,
+            "discountPercent": 50,
+            "discountAmount": null,
+            "fixedAmount": null,
+            "appliedProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 3,
+                    "productCategories": null
+                }
+            ],
+            "rewardProductList": [],
+            "requiredProductList": [],
+            "requiredAmount": 1,
+            "requiredItems": 1,
+            "id": 29631357196370071627619213238
+        },
+        {
+            "type": "REWARD_ITEM",
+            "dealType": "DEAL_UNKNOWN",
+            "name": "my reward perk",
+            "isAddonCharged": true,
+            "isNewClient": null,
+            "addonDiscountAmount": 0,
+            "totalDiscountAmount": 7.96,
+            "rewardPunches": null,
+            "rewardPoints": null,
+            "discountPercent": 100,
+            "discountAmount": null,
+            "fixedAmount": null,
+            "appliedProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 4,
+                    "productCategories": null
+                }
+            ],
+            "rewardProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredProductList": [],
+            "requiredAmount": null,
+            "requiredItems": null,
+            "id": 29641179658603515850974907654
+        },
+        {
+            "type": "PUNCH_CARD_REDEEM",
+            "dealType": "DEAL_UNKNOWN",
+            "name": "My First Punch Card on Product 2",
+            "isAddonCharged": false,
+            "isNewClient": null,
+            "addonDiscountAmount": 5.94,
+            "totalDiscountAmount": 51.89,
+            "rewardPunches": null,
+            "rewardPoints": 100,
+            "discountPercent": 100,
+            "discountAmount": null,
+            "fixedAmount": null,
+            "appliedProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 2,
+                    "productCategories": null
+                },
+                {
+                    "id": 29631307869776418528278192044,
+                    "groupIndex": null,
+                    "quantity": 3,
+                    "productCategories": null
+                }
+            ],
+            "rewardProductList": [
+                {
+                    "id": 29631307869776418528278192044,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                },
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredProductList": [
+                {
+                    "id": 29631303294983888248309391275,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredAmount": null,
+            "requiredItems": null,
+            "id": 29620622526303356425652229569
+        }
+    ],
+    "suggestedPromotion": [],
+    "couponPromotion": {},
+    "toBeAppliedItems": {},
+    "toBeAppliedPromotion": [
+        {
+            "type": "DEAL",
+            "dealType": "DEAL_FREE_ITEM",
+            "name": "Free Product 3",
+            "isAddonCharged": false,
+            "isNewClient": null,
+            "addonDiscountAmount": null,
+            "totalDiscountAmount": null,
+            "rewardPunches": null,
+            "rewardPoints": null,
+            "discountPercent": 100,
+            "discountAmount": null,
+            "fixedAmount": null,
+            "appliedProductList": [],
+            "rewardProductList": [
+                {
+                    "id": 29631307869776418528278192044,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredProductList": [
+                {
+                    "id": 29631307869776418528278192044,
+                    "groupIndex": null,
+                    "quantity": 1,
+                    "productCategories": null
+                }
+            ],
+            "requiredAmount": 1,
+            "requiredItems": null,
+            "id": 29620699836607769342383052725
+        }
+    ],
+    "subAmountProducts": 103.84,
+    "subAmount": 115.72,
+    "discountAmount": 62.835,
+    "serviceFee": null,
+    "totalAmount": 53.82875,
+    "appliedTaxes": [
+        {
+            "taxType": "HST",
+            "taxPercentage": 13,
+            "taxAmount": 0.64675
+        },
+        {
+            "taxType": "GST",
+            "taxPercentage": 5,
+            "taxAmount": 0.2970
+        }
+    ],
+    "isCartEmpty": false
+}

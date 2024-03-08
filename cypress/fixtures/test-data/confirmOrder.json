@@ -1,0 +1,25 @@
+{
+    "isPickUp": null,
+    "deliveryInfoDTO": {
+        "deliveryAddress": {
+          "streetNumber": 10,
+          "unit": "",
+          "streetName": "Dunlop St W",
+          "postalCode": "L4N 1A2",
+          "city": "Barrie",
+          "province": "ON",
+          "country": "CA",
+          "location": {
+              "x": -79.690332,
+              "y": 44.389356,
+              "coordinates": [
+              -79.690332, 44.389356
+              ],
+              "type": "Point"
+          }
+      },
+      "deliveryDistance": 5,
+      "deliveryPrice": 10,
+      "isRememberAddress": false
+    }
+  }

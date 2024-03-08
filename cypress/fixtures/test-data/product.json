@@ -1,0 +1,59 @@
+{
+  "name": "API Product name",
+  "description": "API Product description",
+  "changedImages": [],
+  "deletedImages": [],
+  "attributes": {
+    "Calories": "Calories",
+    "Ingredients": "Ingredients"
+  },
+  "price": 14.99,
+  "stores": [],
+  "hideUntil": "",
+  "availableTime": [
+    {
+      "day": "MONDAY",
+      "fromTime": "00:00",
+      "toTime": "23:59"
+    },
+    {
+      "day": "TUESDAY",
+      "fromTime": "00:00",
+      "toTime": "23:59"
+    },
+    {
+      "day": "WEDNESDAY",
+      "fromTime": "00:00",
+      "toTime": "23:59"
+    },
+    {
+      "day": "THURSDAY",
+      "fromTime": "00:00",
+      "toTime": "23:59"
+    },
+    {
+      "day": "FRIDAY",
+      "fromTime": "00:00",
+      "toTime": "23:59"
+    },
+    {
+      "day": "SATURDAY",
+      "fromTime": "00:00",
+      "toTime": "23:59"
+    },
+    {
+      "day": "SUNDAY",
+      "fromTime": "00:00",
+      "toTime": "23:59"
+    }
+  ],
+  "status": "ACTIVE",
+  "categories": [
+    "Restaurant",
+    "Food"
+  ],
+  "unit": "ea",
+  "groups": [],
+  "addonGroups": [],
+  "deletedGroups": []
+}

@@ -1,0 +1,94 @@
+{
+	"name": "test",
+	"description": "test",
+	"image": "",
+	"stores": [],
+	"isPublicAvailable": true,
+	"deletedImages": [],
+	"status": "ACTIVE",
+	"isAddonCharged": true,
+	"isMaster": true,
+	"isNewClient": null,
+	"requiredProductList": [],
+	"rewardProductList": [],
+	"discountAmount": 0,
+	"fixedAmount": null,
+	"availableTime": [
+		{
+			"day": "MONDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "TUESDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "WEDNESDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "THURSDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "FRIDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},		{
+			"day": "SATURDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},		{
+			"day": "SUNDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		}
+	],
+	"displayTime": [
+		{
+			"day": "MONDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "TUESDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "WEDNESDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "THURSDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},
+		{
+			"day": "FRIDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},		{
+			"day": "SATURDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		},		{
+			"day": "SUNDAY",
+			"fromTime": "00:00",
+			"toTime": "23:59"
+		}
+	],
+	"availableFrom": "2020-09-06T00:00:00-04:00",
+	"availableTo": "2020-09-30T00:00:00-04:00",
+	"limitedStock": "99",
+	"maxRedeem": "99",
+	"requiredAmount": 0,
+	"couponCode": "DEALAPI001",
+	"highlightInProductList": [0],
+	"changedImages": []
+}

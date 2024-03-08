@@ -1,0 +1,17 @@
+{
+    "name": "Punch Card",
+    "description": "Punch Card",
+    "couponCode": "PUNCHCARDTESTAPI",
+    "changedImages": [],
+    "deletedImages": [],
+    "isAddonCharged": true,
+    "availableFrom": "2020-06-25T13:49:23.814Z",
+    "availableTo": "2020-07-25T13:49:23.815Z",
+    "stores": [],
+    "requiredProductList": [],
+    "rewardProductList": [],
+    "requiredPunches": 10,
+    "rewardItems": 1,
+    "rewardPoints": 1,
+    "status":"ACTIVE"
+  }

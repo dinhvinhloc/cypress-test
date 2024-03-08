@@ -1,0 +1,10 @@
+
+{
+    "name": "5 km",
+    "price": 10,
+    "distance": 5,
+    "minAmount": 0,
+    "taxConfigIds": [],
+    "isDefaultStoreTax": true,
+    "status": "ACTIVE"
+}

@@ -1,0 +1,25 @@
+{
+  "avatarURL": "string",
+  "dob": "2020-09-15T16:44:17.115Z",
+  "phone": "+12345678912",
+  "deliveryAddresses": [
+    {
+      "streetNumber": 1,
+      "unit": "2",
+      "streetName": "Wellington St W",
+      "postalCode": "M5V 1E3",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "Canada",
+      "location": {
+        "x": -79.377347,
+        "y": 43.647847,
+        "coordinates": [
+            -79.377347,
+            43.647847
+        ],
+        "type": "Point"
+    }
+    }
+  ]
+}

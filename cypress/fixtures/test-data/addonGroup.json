@@ -1,0 +1,14 @@
+{
+  "name": "API Automation Addon Group",
+  "description": "API Automation Addon Group",
+  "images": null,
+  "products": [],
+  "isSameAddonAllowed": true,
+  "forcedMin": 0,
+  "forcedMax": 5,
+  "lastUpdatedAt": "",
+  "deleteAddonList": [],
+  "addAddonList": [],
+  "addons": [],
+  "changedImages": []
+}

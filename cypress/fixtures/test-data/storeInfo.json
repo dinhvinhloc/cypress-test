@@ -1,0 +1,121 @@
+{
+    "name": "API Automation Test Store",
+    "description": "Store created by API command",
+    "address": {
+        "streetNumber": 432,
+        "unit": "1",
+        "streetName": "Wellington St W",
+        "postalCode": "M5V 1E3",
+        "city": "Toronto",
+        "province": "Ontario",
+        "country": "Canada",
+        "location": {
+            "x": -79.549406,
+            "y": 43.729011,
+            "type": "Point",
+            "coordinates": [
+                -79.549406,
+                43.729011
+            ]
+        }
+    },
+    "changedImages": [],
+    "deletedImages": [],
+    "phone": "+16475186455",
+    "email": "carlos@tacodasilva.ea",
+    "serveOptions": ["PICKUP","DELIVERY","DINE_IN"],
+    "operationTime": [
+        {
+            "day": "MONDAY",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+          },
+          {
+            "day": "TUESDAY",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+          },
+          {
+            "day": "WEDNESDAY",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+          },
+          {
+            "day": "THURSDAY",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+          },
+          {
+            "day": "FRIDAY",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+          },
+          {
+            "day": "SATURDAY",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+          },
+          {
+            "day": "SUNDAY",
+            "fromTime": "00:00",
+            "toTime": "23:59"
+          }
+    ],
+    "deliveryRules": [
+        {
+            "name": "Rule 2",
+            "distance": 1,
+            "price": 1,
+            "minAmount": 0,
+            "status": "ACTIVE"
+        },
+        {
+            "name": "5 km",
+            "distance": 5,
+            "price": 10,
+            "minAmount": 0,
+            "status": "ACTIVE"
+        },
+        {
+            "name": "10 km",
+            "distance": 10,
+            "price": 10.11,
+            "minAmount": 0,
+            "status": "ACTIVE"
+        },
+        {
+            "name": "15 km",
+            "distance": 15,
+            "price": 15,
+            "minAmount": 0,
+            "status": "ACTIVE"
+        },
+        {
+            "name": "20 KM",
+            "distance": 20,
+            "price": 20,
+            "minAmount": 0,
+            "status": "ACTIVE"
+        },
+        {
+            "name": "25 KM",
+            "distance": 25,
+            "price": 25,
+            "minAmount": 0,
+            "status": "ACTIVE"
+        },
+        {
+            "name": "30 KM",
+            "distance": 30,
+            "price": 30,
+            "minAmount": 0,
+            "status": "ACTIVE"
+        }
+    ],
+    "timeZone": {
+      "dst": true,
+      "gmtOffset": -14400,
+      "abbreviation": "EDT",
+      "zoneName": "America/Toronto"
+    }
+}
